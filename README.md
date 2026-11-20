@@ -88,7 +88,7 @@ railjet/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ArmaanAnas/railjet-train-booking.git
+git clone https://github.com/22anurag2006/railjet-train-booking.git
 
 # Go to the project folder
 cd railjet-train-booking
